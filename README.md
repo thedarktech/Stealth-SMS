@@ -49,6 +49,7 @@ pkg install git
 pkg install python
 git clone https://github.com/thedarktech/Stealth-SMS.git
 cd Stealth-SMS
+chmod +x *
 bash Run.sh
 ```
 
@@ -66,6 +67,7 @@ To Send Message Anonymously type the following commands in Linux terminal:
 sudo apt install git
 git clone https://github.com/thedarktech/Stealth-SMS.git
 cd Stealth-SMS
+chmod +x *
 bash Run.sh
 ```
 ## CONTRIBUTORS:

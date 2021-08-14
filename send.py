@@ -59,7 +59,7 @@ def Track() :
 
   exit()
   
-    
+banner()    
 while True:
 	print("\033[0mYou can us This Tool To Send Anonymous Messages To Anyone")
 	break

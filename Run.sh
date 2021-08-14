@@ -63,6 +63,7 @@ echo "  Easy To Use And Embed in Code" | lolcat
 echo ""
 
 echo ""
+echo -e "\e[1;31m                      ** Note **\e[0m"
 echo -e "\e[1;31m This is Only For Educational Purposes or To Prank.\e[0m"
 echo -e "\e[1;31m Do not Use This To Irritate Others. \e[0m"
 echo -e "\e[1;31m Do not Use This To Harm Others. \e[0m"

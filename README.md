@@ -47,7 +47,7 @@ To Send Messages Anonymously type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/
+git clone https://github.com/thedarktech/Stealth-SMS.git
 cd Stealth-SMS
 bash Run.sh
 ```
@@ -64,9 +64,9 @@ Commands below provide instructions for Debian-based systems.
 To Send Message Anonymously type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/
+git clone https://github.com/thedarktech/Stealth-SMS.git
 cd Stealth-SMS
-sudo bash Run.sh
+bash Run.sh
 ```
 ## CONTRIBUTORS:
 - **TheDarkTech**<br>
